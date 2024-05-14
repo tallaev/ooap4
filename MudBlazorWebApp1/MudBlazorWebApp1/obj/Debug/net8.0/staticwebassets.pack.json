@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Проекты VS\\ЛИЗА_ПРИВЕТ\\MudBlazorWebApp1\\MudBlazorWebApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MudBlazorWebApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MudBlazorWebApp1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Проекты VS\\ЛИЗА_ПРИВЕТ\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Проекты VS\\ЛИЗА_ПРИВЕТ\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MudBlazorWebApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MudBlazorWebApp1.props",
+      "PackagePath": "build\\MudBlazorWebApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MudBlazorWebApp1.props",
+      "PackagePath": "buildMultiTargeting\\MudBlazorWebApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MudBlazorWebApp1.props",
+      "PackagePath": "buildTransitive\\MudBlazorWebApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

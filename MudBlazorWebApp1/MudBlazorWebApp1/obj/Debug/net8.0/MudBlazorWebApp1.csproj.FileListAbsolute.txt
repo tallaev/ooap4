@@ -1,0 +1,88 @@
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\appsettings.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.staticwebassets.runtime.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.exe
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.deps.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.runtimeconfig.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.pdb
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.AssemblyInfo.cs
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.MudBlazorWebApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.build.MudBlazorWebApp1.props
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MudBlazorWebApp1.props
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MudBlazorWebApp1.props
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\scopedcss\bundle\MudBlazorWebApp1.styles.css
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\scopedcss\projectbundle\MudBlazorWebApp1.bundle.scp.css
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazo.3C8C7645.Up2Date
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\refint\MudBlazorWebApp1.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.pdb
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.genruntimeconfig.cache
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\ref\MudBlazorWebApp1.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.sourcelink.json
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.csproj.AssemblyReference.cache
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.AssemblyInfoInputs.cache
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.AssemblyInfo.cs
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.csproj.CoreCompileInputs.cache
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.MvcApplicationPartsAssemblyInfo.cache
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.sourcelink.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\refint\MudBlazorWebApp1.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.pdb
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\appsettings.Development.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\appsettings.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.staticwebassets.runtime.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.exe
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.deps.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.runtimeconfig.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazorWebApp1.pdb
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\MudBlazor.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.MudBlazorWebApp1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.build.MudBlazorWebApp1.props
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MudBlazorWebApp1.props
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MudBlazorWebApp1.props
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\scopedcss\bundle\MudBlazorWebApp1.styles.css
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\scopedcss\projectbundle\MudBlazorWebApp1.bundle.scp.css
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazo.3C8C7645.Up2Date
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\MudBlazorWebApp1.genruntimeconfig.cache
+D:\Проекты VS\ЛИЗА_ПРИВЕТ\MudBlazorWebApp1\MudBlazorWebApp1\obj\Debug\net8.0\ref\MudBlazorWebApp1.dll

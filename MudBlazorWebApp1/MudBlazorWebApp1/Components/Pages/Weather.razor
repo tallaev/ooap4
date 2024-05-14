@@ -1,0 +1,51 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject ISnackbar Snackbar
+@inject IDialogService DialogService
+
+
+@using Shared.Monitoring
+<MyMudProviders />
+<MudSnackbarProvider />
+
+<PageTitle>Monitoring</PageTitle>
+
+<div >
+    <div>
+        <MudChart ChartType="ChartType.Line" ChartSeries="@Series" @bind-SelectedIndex="Index" XAxisLabels="@XAxisLabels" Width="100%" Height="650px" ChartOptions="@Options" />
+        <MudButton OnClick="@Start">Купить валюту</MudButton>
+    </div>
+</div>
+
+
+@code {
+    private int Index = -1;
+    public ChartOptions Options = new ChartOptions();
+    MoneyMonitoring monitoring;
+
+    public List<ChartSeries> Series = new List<ChartSeries>()
+    {
+        new ChartSeries() { Name = "Dollar", Data = new double[] { 90,  } },
+        new ChartSeries() { Name = "Euro", Data = new double[] { 95,  } },
+    };
+    public string[] XAxisLabels = { DateTime.Now.ToString("yyyy-MM-dd HH-mm") };
+
+    protected override void OnInitialized()
+    {
+        monitoring = new(Snackbar);
+
+        base.OnInitialized();
+    }
+
+    private void Start()
+    {
+    
+        List<string> XAxisTemp = XAxisLabels.ToList();
+        monitoring.StartMonitoring(Series, XAxisTemp);
+        XAxisLabels = XAxisTemp.ToArray();
+
+
+        StateHasChanged();
+      
+    }
+}
